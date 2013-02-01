@@ -2,7 +2,7 @@
 
 This a crate to install and run zookeeper via [Pallet](http://pallet.github.com/pallet).
 
-[Release Notes](https://github.com/pallet/zookeeper-crate/blob/master/ReleaseNotes.md)
+[Release Notes](ReleaseNotes.md)
 
 ## Support
 
