@@ -1,0 +1,8 @@
+{:header "zookeeper"
+ :title "A pallet crate to install and configure zookeeper."
+ :git-repo "https://github.com/pallet/zookeeper-crate"
+ :api-docs "http://palletops.com/zookeeper-crate/0.8/api"
+ :annotated-docs "http://palletops.com/zookeeper-crate/0.8/annotated/uberdoc.html"
+ :tag-prefix ""
+ :versions [#_{:pallet "0.8.0-RC.7" :version "0.8.0-alpha.3"}
+            ]}
